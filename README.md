@@ -4,7 +4,7 @@
 * Unity Version: 5.3+
 * Example Project: 5.4.0 b20
 
-A code sample showing off how to use a red and green channels within a LUT to drive UV animation along dynamic shapes and paths.
+A code sample showing off how to use red and green channels within a LUT to drive UV animation along dynamic shapes and paths.
 
 ![Example Figure 01](figure01.gif)
 
